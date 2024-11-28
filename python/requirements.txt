@@ -1,2 +1,3 @@
-pygismo
+pygismo=24.08.0
+numpy
 matplotlib
