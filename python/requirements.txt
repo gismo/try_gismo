@@ -1,1 +1,2 @@
-pygismo==24.08.0
+pygismo
+matplotlib
