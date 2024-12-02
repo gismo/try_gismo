@@ -8,8 +8,9 @@ Simply click the button below to start an online environment to test `pygismo`.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gismo/try_gismo/HEAD?labpath=python)
 
 ## Julia
+Simply click the button below to start an online environment to test `Gismo.jl`.
 
-WIP
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gismo/try_gismo/HEAD?labpath=julia)
 
 # Contributing
 
