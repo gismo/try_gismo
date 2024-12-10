@@ -1,5 +1,0 @@
-nbgitpuller
-
-numpy
-matplotlib
-pygismo
