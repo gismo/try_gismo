@@ -3,4 +3,7 @@ Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 Gismo = "f019f137-166b-4455-b646-ee200b009b83"
 
 [compat]
+Gismo = "25.1.0"
+
+[compat]
 julia = "1.10"
