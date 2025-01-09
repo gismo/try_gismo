@@ -4,6 +4,4 @@ Gismo = "f019f137-166b-4455-b646-ee200b009b83"
 
 [compat]
 Gismo = "25.1.0"
-
-[compat]
 julia = "1.10"
