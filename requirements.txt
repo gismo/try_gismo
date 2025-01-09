@@ -2,4 +2,4 @@ nbgitpuller
 
 numpy==1.26.0
 matplotlib
-pygismo
+pygismo==25.1.0
